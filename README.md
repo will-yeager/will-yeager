@@ -1,5 +1,7 @@
 ### Hi, welcome to my profile! 👋
-<p>I'm William Jonathan, i am 19 years old and i studying programming languages
+<p>I'm William Jonathan, i am 19 years old and studying programming languages</p>
+<p>I study in IFSP - Analise e Desenvolvimento de Sistemas
+<p>My goal is become a Full Stack programmer</p>
 
 <!--
 **will-yeager/will-yeager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
