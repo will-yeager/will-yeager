@@ -32,3 +32,8 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 
+## GitHub Stats and Most Used Languages
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=will-yeager&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-yeager&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/will-yeager/github-readme-stats)
+
