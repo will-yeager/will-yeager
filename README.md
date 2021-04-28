@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ## GitHub Stats and Most Used Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=will-yeager&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-yeager&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/will-yeager/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-yeager&layout=compact&theme=dracula&langs_count=10)](https://github.com/will-yeager/github-readme-stats)
 
