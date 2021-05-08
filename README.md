@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## What i am learning
+## What i know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,4 +36,9 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=will-yeager&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-yeager&layout=compact&theme=dracula&langs_count=10)](https://github.com/will-yeager/github-readme-stats)
+
+## Social Medias
+<a href="https://www.linkedin.com/in/willjsb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://codepen.io/will-yeager" target="_blank"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="https://www.instagram.com/williamjsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
