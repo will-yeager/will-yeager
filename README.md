@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-yeager&layout=compact&theme=dracula&langs_count=10)](https://github.com/will-yeager/github-readme-stats)
 
 ## Social Medias
-Connect with me in:
+Connect with me in :
 <a href="https://www.linkedin.com/in/willjsb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/williamjsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
