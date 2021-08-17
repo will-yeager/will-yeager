@@ -1,4 +1,4 @@
-### Hi, welcome to my profile! 👋
+### <img src="https://i.imgur.com/85Dx5V3.png">
 
 <p>I'm William Jonathan, i am 19 years old and studying programming languages</p>
 <p>My goal is become a better programmer</p>
