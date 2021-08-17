@@ -1,4 +1,4 @@
-### <img src="https://i.imgur.com/SRtFYsg.png">
+### <img src="https://i.imgur.com/Yxh0Xnu.png">
 
 <p>I'm William Jonathan, i am 19 years old and studying programming languages</p>
 <p>My goal is become a better programmer</p>
