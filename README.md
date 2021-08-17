@@ -1,6 +1,7 @@
 ### Hi, welcome to my profile! 👋
 <p>I'm William Jonathan, i am 19 years old and studying programming languages</p>
 <p>My goal is become a better programmer</p>
+<p>Joined FCamara in June/2021 as a Fullstack Trainee Developer</p>
 <p>IFSP - Analise e Desenvolvimento de Sistemas</P>
 
 
