@@ -1,10 +1,8 @@
 ### <img src="https://i.imgur.com/Yxh0Xnu.png">
 
-<p>I'm William Jonathan, i am 20 years old and studying programming languages</p>
-<p>My goal is become a backEnd Developer</p>
-<p>Joined FCamara in June/2021 as a Fullstack Trainee Developer</p>
-<p>IFSP - Analise e Desenvolvimento de Sistemas</P>
-
+<p>I'm William Jonathan, i am 20 years old</p>
+<p>My goal is become a BackEnd Developer working abroard</p>
+<p>Working in FCamara as a Fullstack Junior Developer </p>
 
 <!--
 **will-yeager/will-yeager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,15 +27,16 @@ Here are some ideas to get you started:
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ## What i know
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
 
 ## What i want learn
 
